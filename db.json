@@ -1,0 +1,27 @@
+{
+  "user": [
+    {
+      "username": "adam",
+      "email": "adam@gmail.com",
+      "password": "1234",
+      "id": "790d"
+    },
+    {
+      "id": "bb2c",
+      "username": "laddoo",
+      "email": "kik@gm.com",
+      "password": "12345"
+    },
+    {
+      "id": "8494",
+      "name": "jo",
+      "category": "asdd",
+      "likelihood": "gryg",
+      "impact": "gdfgr"
+    }
+  ],"users":[
+    {
+      "name":"kavi","category":"asdd","likelihood":"gryg","impact":"gdfgr"
+    }
+  ]
+}

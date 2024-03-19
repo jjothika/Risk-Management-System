@@ -1,0 +1,23 @@
+.container{
+  border:2px solid black;
+  height:550px;
+  width:1550px;
+  background-image:url('./about.jpg');
+  background-repeat: no-repeat;
+  background-position: fixed;
+  background-size:100% 100%;
+}
+
+.cls2
+{
+ text-align: center;
+ background-color: antiquewhite;
+} 
+  
+h1{
+  padding-left: 5rem;
+  padding-top: 2rem;
+  color:black;
+  font-size: 60px;
+  font-family:Algerian;
+}

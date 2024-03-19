@@ -1,0 +1,41 @@
+.c1
+{
+border:2px solid #071b47;
+width:100%;
+height:520px;
+}
+.c2
+{
+border:0px solid black;
+color:bisque;
+width:100%;
+height:750px;
+background-image:url('risk.jpg');
+background-position:fixed;
+background-repeat:no-repeat;
+background-size:100% 100%;
+}
+.c3
+{
+    color: black;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    height:40px;
+    background-color:#9e1c77;
+    width:100%;
+    font-size: 20px;
+}
+.c4
+{
+    text-align: center;
+    text-decoration: none;
+}
+.foot
+{
+    display:flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    background-color:#660b0b;
+    height:60px;
+}
